@@ -1,0 +1,14 @@
+[
+    {
+        "llave": "id1",
+        "valor": "valor1"
+    },
+    {
+        "llave": "id2",
+        "valor": "valor2"
+    },
+    {
+        "llave": "id3",
+        "valor": "valor3"
+    }
+]
